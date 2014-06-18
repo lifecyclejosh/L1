@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese></cheese>
+  <cheese>Lifecycle User Solution</cheese>
   <crust></crust>
   <price>
     <pre_tax></pre_tax>
     <tax></tax>
-    <total>9</total>
+    <total></total>
   </price>
 </pizza>
 
