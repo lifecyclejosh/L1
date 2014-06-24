@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese></cheese>
+  <cheese>LC USER CHALLENGE</cheese>
   <crust></crust>
   <price>
-    <pre_tax>Sample</pre_tax>
+    <pre_tax></pre_tax>
     <tax></tax>
     <total></total>
   </price>
