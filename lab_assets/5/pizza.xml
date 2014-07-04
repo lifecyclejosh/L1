@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese>Lifecucle solution to challenge 2</cheese>
-  <crust>HERE IS THE FIX</crust>
+  <cheese></cheese>
+  <crust></crust>
   <price>
-    <pre_tax></pre_tax>
+    <pre_tax>TEST</pre_tax>
     <tax></tax>
     <total></total>
   </price>
